@@ -1,16 +1,63 @@
-## Hi there 👋
+# Tushar Rao
 
-<!--
-**Tushar-94/Tushar-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer · Computer Vision · LLM Engineering**
 
-Here are some ideas to get you started:
+Building intelligent systems from research to real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio ↗](https://tusharrao.dev) · [GitHub ↗](https://github.com/Tushar-94)
+
+---
+
+## Selected Work
+
+### 01 — Industrial Vision Anomaly Detection
+
+**Computer Vision · DINOv2 · Few-Shot Learning**
+
+Few-shot anomaly detection for industrial quality inspection, focusing on ROI masking, threshold calibration, and reproducible evaluation.
+
+**[View Project →](https://tusharrao.dev/projects/industrial-vision-anomaly-detection)**
+
+---
+
+### 02 — Industrial Knowledge Copilot
+
+**LLM Engineering · RAG · Hybrid Search**
+
+Evidence-grounded retrieval for industrial technical knowledge, combining dense retrieval, hybrid search, and source traceability.
+
+**[View Project →](https://tusharrao.dev/projects/industrial-knowledge-copilot)**
+
+---
+
+### 03 — LogIQ AI Agent
+
+**Agentic AI · Tool Calling · SQL**
+
+Role-aware AI agent for system log investigation, integrating LLM reasoning with 19 SQL-backed tools.
+
+**[View Project →](https://tusharrao.dev/projects/logiq-ai-agent)**
+
+---
+
+### Technical Toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, XGBoost |
+| **Computer Vision** | OpenCV, YOLO, DINOv2, Image Segmentation |
+| **LLM Engineering** | RAG, Qdrant, Embeddings, Tool Calling |
+| **Data Engineering** | Python, SQL, PostgreSQL, BigQuery |
+| **MLOps & Deployment** | Docker, Kubernetes, FastAPI, AWS, GCP |
+
+---
+
+### Currently Exploring
+
+- Few-shot learning and industrial visual inspection
+- Agentic AI and tool-using language models
+- Reliable retrieval and evaluation for LLM systems
+
+---
+
+<sub>Engineering intelligence. Building what matters.</sub>
