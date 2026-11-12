@@ -4,7 +4,7 @@
 
 Building intelligent systems from research to real-world applications.
 
-[Portfolio ↗](https://tusharrao.dev) · [GitHub ↗](https://github.com/Tushar-94)
+[Portfolio ↗](https://tusharrao.dev)
 
 ---
 
