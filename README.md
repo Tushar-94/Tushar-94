@@ -34,7 +34,7 @@ Evidence-grounded retrieval for industrial technical knowledge, combining dense 
 
 **Agentic AI · Tool Calling · SQL**
 
-Role-aware AI agent for system log investigation, integrating LLM reasoning with 19 SQL-backed tools.
+Role-aware AI agent for system log investigation, integrating LLM reasoning with SQL-backed tools.
 
 **[View Project →](https://tusharrao.dev/projects/logiq-ai-agent)**
 
