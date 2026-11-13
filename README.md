@@ -39,8 +39,9 @@
 <p>Role-aware log investigations using an LLM and 19 SQL-backed tools.</p>
 <a href="https://tusharrao.dev/projects/logiq-ai-agent">Explore project ↗</a>
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 <br>
+<div align="center">
 <h3>How I work</h3>
 <p>From problem framing to evaluation, I focus on reproducible experiments, clear engineering decisions, and systems that can be tested—not just demonstrated.</p>
 <p><a href="https://tusharrao.dev/projects">View all projects ↗</a></p>
