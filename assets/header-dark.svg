@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310"><rect width="1100" height="310" rx="12" fill="#111417"/><rect x="28" y="28" width="1044" height="254" rx="6" fill="none" stroke="#343b39"/><text x="64" y="70" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#9eb6a7">TR  /  ENGINEERING INTELLIGENCE</text><path d="M64 91 H1036" stroke="#343b39"/><text x="64" y="162" font-family="Arial,sans-serif" font-size="59" font-weight="700" letter-spacing="-2" fill="#f3f2ed">Tushar Rao</text><text x="66" y="205" font-family="Arial,sans-serif" font-size="21" fill="#a4aca8">AI / ML Engineer</text><text x="66" y="252" font-family="Arial,sans-serif" font-size="17" fill="#f3f2ed">Computer Vision   ·   LLM Engineering   ·   Agentic AI</text><circle cx="985" cy="187" r="29" fill="none" stroke="#9eb6a7" stroke-width="1.5"/><path d="M974 187 h22 m-11 -11 v22" stroke="#9eb6a7" stroke-width="1.5"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="202" viewBox="0 0 1100 202" role="img" aria-label="Tushar Rao, AI / ML Engineer. Computer Vision, LLM Engineering, Agentic AI.">
+<rect width="1100" height="202" rx="12" fill="#111417"/>
+<rect x="18" y="18" width="1064" height="166" rx="6" fill="none" stroke="#343b39"/>
+<rect x="46" y="43" width="3" height="32" rx="1.5" fill="#9eb6a7"/>
+<text x="66" y="75" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="700" letter-spacing="-1.2" fill="#f3f2ed">Tushar Rao</text>
+<text x="66" y="112" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" letter-spacing="1.2" fill="#9eb6a7">AI / ML ENGINEER</text>
+<path d="M66 130 H1034" stroke="#343b39"/>
+<text x="66" y="160" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#a4aca8">Computer Vision   ·   LLM Engineering   ·   Agentic AI</text>
+</svg>
