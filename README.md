@@ -22,7 +22,7 @@
 </td>
 <td width="50%" valign="top">
 <h3>Industrial Knowledge Copilot</h3>
-<a href="https://tusharrao.dev/projects/industrial-knowledge-copilot"><img src="./assets/rag.svg" alt="Minimal diagram of retrieval and source evidence" width="100%"></a>
+<a href="https://tusharrao.dev/projects/industrial-knowledge-copilot"><img src="./assets/rag.svg" alt="Industrial Knowledge Copilot diagram illustrating document retrieval, hybrid search, and evidence-grounded responses" width="100%"></a>
 <p><sub>LLM ENGINEERING · RAG · RETRIEVAL</sub></p>
 <p>Evidence-grounded answers from manufacturing documents, with retrieval evaluation and source traceability.</p>
 <a href="https://tusharrao.dev/projects/industrial-knowledge-copilot">Explore project ↗</a>
