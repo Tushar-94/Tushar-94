@@ -15,7 +15,7 @@
 <tr>
 <td width="50%" valign="top">
 <h3>Industrial Vision Anomaly Detection</h3>
-<a href="https://tusharrao.dev/projects/industrial-vision-anomaly-detection"><img src="./assets/vision.svg" alt="Minimal schematic of visual anomaly inspection" width="100%"></a>
+<a href="https://tusharrao.dev/projects/industrial-vision-anomaly-detection"><img src="./assets/vision.svg" alt="Industrial anomaly detection workflow illustrating reference-based inspection, ROI masking, and anomaly scoring" width="100%"></a>
 <p><sub>COMPUTER VISION · DINOV2 · FEW-SHOT</sub></p>
 <p>Reference-based industrial inspection, ROI masking, and calibrated anomaly scoring.</p>
 <a href="https://tusharrao.dev/projects/industrial-vision-anomaly-detection">Explore project ↗</a>
