@@ -1,5 +1,3 @@
-<p align="right"><sub>AI ENGINEERING · SELECTED WORK</sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
