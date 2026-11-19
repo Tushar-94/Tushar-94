@@ -56,7 +56,7 @@
 | **Computer vision** | PyTorch · OpenCV · YOLO · DINOv2 |
 | **LLM systems** | RAG · Qdrant · Hybrid search · Tool calling |
 | **Machine learning** | Scikit-learn · XGBoost · Evaluation |
-| **Systems** | Python · SQL · FastAPI · Docker · Kubernetes |
+| **Systems** | MLflow · SQL · FastAPI · Docker · Kubernetes |
 
 ### 03 / Currently exploring
 
